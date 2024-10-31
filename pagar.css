@@ -1,0 +1,21 @@
+.divprincipal {
+    background-image: url('./pagar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleprincipal {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.center-cosas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

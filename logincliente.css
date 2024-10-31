@@ -1,0 +1,22 @@
+.divprincipal {
+    background-image: url('./logincliente.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 93vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleprincipal {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.center-cosas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
